@@ -42,6 +42,11 @@ h2 {
     font-weight: 500;
 }
 
+h2.small-heading {
+    padding: 60px 0 20px 0;
+    text-align: center;
+}
+
 h3 {
     font-size: 18px;
     font-weight: 500;
@@ -89,6 +94,11 @@ body {
     z-index: 10;
     top: 50%;
     opacity: 0.9;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
 }
 
 .intro-content h1 {
