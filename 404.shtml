@@ -29,6 +29,11 @@
     
 </head>
 <body>
+	<div id="preloader">
+        <div class="loader">
+        </div>
+    </div>
+
     <div class="home-page">
         <div class="introduction">
             <img alt="home_page_image" src="images/home.jpeg">
