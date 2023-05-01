@@ -1,3 +1,3 @@
-### kapozade-personal-website
+### kapozade.github.io
 
-This repository contains my personal website (you can reach here => https://onurkapcik.com) source codes.
+This repository contains my personal [web page](http://onurkapcik.com) will be redirected to [kapozade.github.io](kapozade.github.io)).
